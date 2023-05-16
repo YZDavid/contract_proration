@@ -1,0 +1,6 @@
+﻿contract_id,contract_name,customer_id,start_date,end_date,amount
+C001,ABC Contract,S001,12/6/2022,5/1/2023,11800
+C002,XYZ Contract,S002,29/6/2022,21/9/2022,5250
+C003,Contract Name,S001,24/9/2022,17/5/2023,22560
+C004,Some Contract,S003,28/2/2023,14/3/2023,1450
+C005,JKL Contract,S004,17/5/2023,31/5/2023,1337
